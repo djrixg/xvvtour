@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18105" appversion="6.1.14" start="node7">
+  <panorama id="node7" hideabout="1">
+    <input height="1520" overlap="1" levelbiashidpi="1.000" width="1520" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-13.4813" projection="4" pan="179.089" fov="120"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="XV house" copyright="" longitude="" nodeid="node7" customnodeid="" author="" title="Front" description="" heading="0" source="" info="" datetime="01/07/2023 10:13 am" latitude="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" textcolor="0x000000" wordwrap="1" border="1" background="1" enabled="1" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="-3.12" pan="-126.02" title="Backyard" description="" skinid="ht_node" url="{node3}" target=""/>
+      <hotspot id="Point02" tilt="-6.6" pan="-191.16" title="LIving Room" description="" skinid="ht_node" url="{node4}" target="-0.4/-16.3/100.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="2" enabled="1" softedge="0" type="crossdissolve" zoomspeed="20" blendcolor="0x000000" zoomfov="20" zoomafterinfov="90" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" hideabout="1" invertcontrol="1" sensitivity="8" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input height="1520" overlap="1" levelbiashidpi="1.000" width="1520" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="XV house" copyright="" longitude="" nodeid="node3" customnodeid="" author="" title="Backyard" description="" heading="0" source="" info="" datetime="01/07/2023 10:12 am" latitude="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" textcolor="0x000000" wordwrap="1" border="1" background="1" enabled="1" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="-6.47" pan="-166.86" title="Front" description="" skinid="ht_node" url="{node7}" target=""/>
+      <hotspot id="Point02" tilt="-3.74" pan="-42.79" title="Dirty Kitchen" description="" skinid="ht_node" url="{node2}" target="-58.8/-23.4/100.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="2" enabled="1" softedge="0" type="crossdissolve" zoomspeed="20" blendcolor="0x000000" zoomfov="20" zoomafterinfov="90" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" hideabout="1" invertcontrol="1" sensitivity="8" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input height="1520" overlap="1" levelbiashidpi="1.000" width="1520" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="XV house" copyright="" longitude="" nodeid="node2" customnodeid="" author="" title="Dirty Kitchen" description="" heading="0" source="" info="" datetime="01/07/2023 10:12 am" latitude="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" textcolor="0x000000" wordwrap="1" border="1" background="1" enabled="1" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="-9.75" pan="-235.97" title="Backyard" description="" skinid="ht_node" url="{node3}" target="139.5/-21.4/100.0"/>
+      <hotspot id="Point02" tilt="-18.19" pan="-87.82" title="Laundry Area" description="" skinid="ht_node" url="{node1}" target="-51.3/-8.6/100.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="2" enabled="1" softedge="0" type="crossdissolve" zoomspeed="20" blendcolor="0x000000" zoomfov="20" zoomafterinfov="90" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" hideabout="1" invertcontrol="1" sensitivity="8" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input height="1520" overlap="1" levelbiashidpi="1.000" width="1520" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="XV house" copyright="" longitude="" nodeid="node1" customnodeid="" author="" title="Laundry Area" description="" heading="0" source="" info="" datetime="01/07/2023 10:12 am" latitude="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" textcolor="0x000000" wordwrap="1" border="1" background="1" enabled="1" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="-24.4" pan="-208.84" title="Dirty Kitchen" description="" skinid="ht_node" url="{node2}" target="112.6/-6.3/100.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="2" enabled="1" softedge="0" type="crossdissolve" zoomspeed="20" blendcolor="0x000000" zoomfov="20" zoomafterinfov="90" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" hideabout="1" invertcontrol="1" sensitivity="8" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input height="1520" overlap="1" levelbiashidpi="1.000" width="1520" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="XV house" copyright="" longitude="" nodeid="node4" customnodeid="" author="" title="LIving Room" description="" heading="0" source="" info="" datetime="01/07/2023 10:13 am" latitude="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" textcolor="0x000000" wordwrap="1" border="1" background="1" enabled="1" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="-18.18" pan="-278.68" title="Backyard" description="" skinid="ht_node" url="{node3}" target="68.6/-8.1/120.0"/>
+      <hotspot id="Point02" tilt="-16.2" pan="-134.63" title="Front" description="" skinid="ht_node" url="{node7}" target="-11.3/-28.9/120.0"/>
+      <hotspot id="Point03" tilt="-15.44" pan="-329.69" title="Bathroom" description="" skinid="ht_node" url="{node5}" target="33.4/-31.1/120.0"/>
+      <hotspot id="Point04" tilt="-20.04" pan="-353.63" title="Bedroom" description="" skinid="ht_node" url="{node6}" target="61.2/-22.7/117.4"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="2" enabled="1" softedge="0" type="crossdissolve" zoomspeed="20" blendcolor="0x000000" zoomfov="20" zoomafterinfov="90" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" hideabout="1" invertcontrol="1" sensitivity="8" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input height="1520" overlap="1" levelbiashidpi="1.000" width="1520" levelingpitch="1.50749" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="-4.89736">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="XV house" copyright="" longitude="" nodeid="node5" customnodeid="" author="" title="Bathroom" description="" heading="0" source="" info="" datetime="01/07/2023 10:13 am" latitude="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" textcolor="0x000000" wordwrap="1" border="1" background="1" enabled="1" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="-20.07" pan="-135.69" title="LIving Room" description="" skinid="ht_node" url="{node4}" target="-140.7/-20.2/92.4"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="2" enabled="1" softedge="0" type="crossdissolve" zoomspeed="20" blendcolor="0x000000" zoomfov="20" zoomafterinfov="90" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" hideabout="1" invertcontrol="1" sensitivity="8" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input height="1520" overlap="1" levelbiashidpi="1.000" width="1520" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="XV house" copyright="" longitude="" nodeid="node6" customnodeid="" author="" title="Bedroom" description="" heading="0" source="" info="" datetime="01/07/2023 10:13 am" latitude="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" textcolor="0x000000" wordwrap="1" border="1" background="1" enabled="1" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="-17.73" pan="-125.36" title="LIving Room" description="" skinid="ht_node" url="{node4}" target="141.4/-20.1/108.5"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="2" enabled="1" softedge="0" type="crossdissolve" zoomspeed="20" blendcolor="0x000000" zoomfov="20" zoomafterinfov="90" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" hideabout="1" invertcontrol="1" sensitivity="8" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" copyright="" longitude="" nodeid="master" customnodeid="" author="" title="" description="" heading="0" source="" info="" datetime="" latitude="" comment=""/>
+  </masternode>
+</tour>
